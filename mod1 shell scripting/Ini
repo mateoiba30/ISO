@@ -1,0 +1,22 @@
+#!/bin/bash
+
+vector=()
+
+function iniciar{
+	$1 #el 1er parametro que recibe la funcion
+	vector=$(seq 1 10) #inicializa el vector con 1 2 3 4 5 6 7 8 9 10, hay que revisar la sintaxis
+	vector=({1..10}) #hace lo mismo que arriba, revisar sintaxis
+	
+	echo "inicializado"
+
+}
+longitud(){
+	echo "La longitud es de ${#vector[@]}"
+}
+elementos(){
+	echo los elementos son ${vevctor[@]}
+}
+
+select option in iniciar longitud elementos exit
+do
+	$opcion #ejecuta la opcion
