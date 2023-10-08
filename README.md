@@ -1,8 +1,8 @@
 # ISO
 
-Este repositorio contiene las prácticas realizadas en la materia de Introducción a Sistemas Operativos.
+This repository contains the practices carried out in the subject of Introduction to Operating Systems.
 
-módulo 1: introducción a Linux, definiciones de sistemas operativos, bash shell scripting, etc.
-## Carpetas
+Module 1: introduction to Linux, operating system definitions, bash shell scripting, etc.
+## Folders
 
-- [modulo 1](mod1_shell_scripting/)
+- [module 1](mod1_shell_scripting/)
