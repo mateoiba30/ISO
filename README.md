@@ -6,3 +6,5 @@ Module 1: introduction to Linux, operating system definitions, bash shell script
 ## Folders
 
 - [module 1](mod1_shell_scripting/)
+
+Here are the [assigments](mod1_shell_scripting/Práctica.pdf)
